@@ -1,0 +1,20 @@
+student_name = "Rakshita"
+college = "Alva's"
+Branch = "ECE"
+skills = "Python"
+CGPA = 8.03
+passed_out_year = 2027
+
+print("student_name:",student_name)
+print("college:", college)
+print("Branch:", Branch)
+print("skills:", skills)
+print("CGPA:", CGPA)
+print("passed_out_year:", passed_out_year)
+
+print(type(student_name))
+print(type(college))
+print(type(Branch))
+print(type(skills))
+print(type(CGPA))
+print(type(passed_out_year))
